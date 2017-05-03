@@ -95,6 +95,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Global.asax" />
+    <Content Include="Images\logo_un.jpg" />
     <Content Include="Images\search.png" />
     <Content Include="LogOut.aspx" />
     <Content Include="packages.config" />

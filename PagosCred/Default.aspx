@@ -148,7 +148,7 @@
                             </div>
                         </div>
                         <div class="col-sm-6 text-center">
-                            <img src="Images/credijalrecor.PNG" style="width: 200px; height: 45px" />
+                            <img src="Images/logo_un.jpg" style="width: 150px; height: 45px" />
                         </div>
                     </div>
                     <div class="row">
