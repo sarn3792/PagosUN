@@ -148,7 +148,8 @@
                             </div>
                         </div>
                         <div class="col-sm-6 text-center">
-                            <img src="Images/credijalrecor.PNG" style="width: 200px; height: 45px" />
+                            <img src="Images/logo_un.jpg" style="width: 150px; height: 45px" />
+                            <a target="_blank" href="https://192.168.21.118:90/CREDIUN/main.aspx?etc=3&id=a3850d52-6bf8-e611-80ea-00155d6d0604&histKey=457335477&newWindow=true&pagetype=entityrecord#772517742" CssClass="btn btn-primary top-buffer">Abrir CRM</a>
                         </div>
                     </div>
                     <div class="row">
